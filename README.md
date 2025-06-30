@@ -44,7 +44,7 @@ Click a button, challenge the computer, and track your wins, losses, and ties �
 
 ✅ Make sure Python and Tkinter are installed on your system.
 
-⸻
+---
 
 🧠 What I Learned
 
@@ -54,7 +54,7 @@ This fun game helped me:
 	•	Design smooth GUI layouts using pack() and grid()
 	•	Use lambda and StringVar() effectively
 
-⸻
+---
 
 🤝 Connect With Me
 
@@ -64,13 +64,13 @@ Let’s connect and grow together! 🌱✨
 	•	🐦 Twitter: @shiroi_27
 	•	💼 GitHub: shiroi27
 
-⸻
+---
 
 📜 License
 
 This project is open-source and free to use under the MIT License.
 
-⸻
+---
 
 📌 Hashtags
 
