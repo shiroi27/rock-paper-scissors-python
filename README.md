@@ -46,7 +46,7 @@ Click a button, challenge the computer, and track your wins, losses, and ties �
 
 ---
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 This fun game helped me:
 	•	Work with button commands and user input
@@ -56,7 +56,7 @@ This fun game helped me:
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 I’m sharing my #100DaysOfCode journey with real-world Python projects.
 Let’s connect and grow together! 🌱✨
@@ -66,12 +66,12 @@ Let’s connect and grow together! 🌱✨
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source and free to use under the MIT License.
 
 ---
 
-📌 Hashtags
+## 📌 Hashtags
 
 #Python #Tkinter #RockPaperScissors #100DaysOfCode #PythonProjects #GameDev #GUI #Day16
