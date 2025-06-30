@@ -1,5 +1,6 @@
 ## 📸 Preview
-![Rock Paper Scissors Screenshot](https://github.com/shiroi27/rock-paper-scissors-python/assets/your-image-link-here)
+![Rock Paper Scissors Screenshot](https://github.com/user-attachments/assets/6181909d-6c25-4a8e-b162-7dc745e78e81)
+
 
 ---
 
