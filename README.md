@@ -49,10 +49,10 @@ Click a button, challenge the computer, and track your wins, losses, and ties �
 ## 🧠 What I Learned
 
 This fun game helped me:
-	•	Work with button commands and user input
-	•	Track multiple variables (win/loss/tie counters)
-	•	Design smooth GUI layouts using pack() and grid()
-	•	Use lambda and StringVar() effectively
+• Work with button commands and user input
+• Track multiple variables (win/loss/tie counters)
+• Design smooth GUI layouts using pack() and grid()
+• Use lambda and StringVar() effectively
 
 ---
 
