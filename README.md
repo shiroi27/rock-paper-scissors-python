@@ -36,7 +36,7 @@ Click a button, challenge the computer, and track your wins, losses, and ties â€
    git clone https://github.com/shiroi27/rock-paper-scissors-python
    cd rock-paper-scissors-python
 ```
-2.	Run the Python file:
+2. Run the Python file :
 ```bash
    python Rock_Paper_Scissors.py
 ```
